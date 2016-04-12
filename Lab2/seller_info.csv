@@ -1,0 +1,3 @@
+"{""2"": {""product_count"": 1, ""product_name"": ""Boar"", ""seller"": {""host_addr"": ""127.0.1.1:10008"", ""peer_id"": 2}}}"
+"{""4"": {""product_count"": 1, ""product_name"": ""Fish"", ""seller"": {""host_addr"": ""127.0.1.1:10010"", ""peer_id"": 4}}}"
+"{""6"": {""product_count"": 1, ""product_name"": ""Salt"", ""seller"": {""host_addr"": ""127.0.1.1:10012"", ""peer_id"": 6}}}"
